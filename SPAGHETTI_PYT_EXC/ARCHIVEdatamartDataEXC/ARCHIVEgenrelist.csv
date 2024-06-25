@@ -1,0 +1,1501 @@
+genreListID,genreList
+1,Romance
+2,"Adventure, Comedy, Mystery"
+3,"Comedy, Horror, Thriller"
+4,"Fantasy, Mystery"
+5,Mystery
+6,"Thriller, Mystery"
+7,Action
+8,"Romance, Crime"
+9,Adventure
+10,Action
+11,"Fantasy, Mystery, Family"
+12,"Action, Drama"
+13,"Action, Comedy"
+14,"Action, Sci-Fi"
+15,"Horror, Crime"
+16,"Adventure, Horror, Mystery"
+17,"Adventure, Animation"
+18,Action
+19,"Sci-Fi, Thriller, Family"
+20,"Action, Animation"
+21,"Sci-Fi, Crime"
+22,"Action, Drama"
+23,Crime
+24,Mystery
+25,Crime
+26,"Drama, Mystery"
+27,Crime
+28,"Thriller, Animation"
+29,Adventure
+30,Crime
+31,Adventure
+32,"Comedy, Drama"
+33,"Comedy, Animation"
+34,"Action, Romance, Mystery"
+35,Animation
+36,Romance
+37,"Mystery, Family"
+38,"Action, Thriller"
+39,"Fantasy, Animation"
+40,"Action, Thriller, Crime"
+41,Thriller
+42,"Drama, Mystery"
+43,"Romance, Crime"
+44,Thriller
+45,Sci-Fi
+46,"Drama, Romance"
+47,"Comedy, Thriller, Family"
+48,"Horror, Crime"
+49,"Adventure, Sci-Fi"
+50,Adventure
+51,"Horror, Crime"
+52,"Comedy, Fantasy"
+53,"Thriller, Mystery"
+54,Sci-Fi
+55,Sci-Fi
+56,"Action, Comedy, Sci-Fi"
+57,"Horror, Fantasy"
+58,"Action, Animation"
+59,"Action, Comedy, Sci-Fi"
+60,"Horror, Romance"
+61,"Horror, Romance, Thriller"
+62,"Adventure, Fantasy"
+63,Action
+64,"Action, Sci-Fi, Crime"
+65,Sci-Fi
+66,Thriller
+67,"Drama, Horror"
+68,Fantasy
+69,Crime
+70,"Adventure, Comedy, Romance"
+71,Action
+72,"Romance, Family"
+73,"Horror, Fantasy, Crime"
+74,"Comedy, Family"
+75,"Adventure, Drama, Fantasy"
+76,"Action, Adventure, Crime"
+77,"Comedy, Thriller"
+78,Animation
+79,"Drama, Mystery, Crime"
+80,Animation
+81,"Horror, Thriller, Family"
+82,"Sci-Fi, Thriller, Fantasy"
+83,"Drama, Thriller, Crime"
+84,Action
+85,Crime
+86,"Sci-Fi, Thriller, Animation"
+87,"Drama, Fantasy"
+88,Comedy
+89,Action
+90,"Thriller, Animation"
+91,"Drama, Mystery"
+92,"Adventure, Thriller, Animation"
+93,Action
+94,"Action, Adventure, Horror"
+95,Animation
+96,Thriller
+97,"Romance, Sci-Fi"
+98,"Adventure, Crime"
+99,Romance
+100,"Action, Comedy, Drama"
+101,Crime
+102,Animation
+103,"Drama, Crime"
+104,"Sci-Fi, Crime, Family"
+105,"Action, Adventure, Animation"
+106,"Action, Adventure, Mystery"
+107,"Drama, Romance, Fantasy"
+108,"Action, Crime"
+109,Adventure
+110,"Drama, Fantasy, Crime"
+111,"Adventure, Fantasy"
+112,"Action, Drama, Mystery"
+113,"Comedy, Horror, Crime"
+114,"Comedy, Drama"
+115,"Comedy, Family"
+116,"Adventure, Sci-Fi"
+117,"Mystery, Crime, Family"
+118,"Action, Sci-Fi, Mystery"
+119,"Horror, Sci-Fi, Thriller"
+120,"Drama, Mystery, Crime"
+121,"Thriller, Crime, Family"
+122,"Action, Drama"
+123,Action
+124,"Action, Thriller"
+125,Drama
+126,"Adventure, Drama, Sci-Fi"
+127,"Adventure, Mystery, Animation"
+128,"Thriller, Animation, Family"
+129,"Thriller, Crime"
+130,"Drama, Horror, Family"
+131,"Drama, Family"
+132,Fantasy
+133,"Fantasy, Animation, Family"
+134,"Action, Adventure"
+135,"Romance, Thriller, Crime"
+136,"Fantasy, Family"
+137,Drama
+138,Action
+139,"Fantasy, Animation"
+140,"Action, Mystery"
+141,Horror
+142,Thriller
+143,"Action, Thriller, Mystery"
+144,"Adventure, Fantasy, Crime"
+145,"Sci-Fi, Fantasy, Animation"
+146,"Horror, Family"
+147,"Thriller, Fantasy, Mystery"
+148,"Action, Adventure, Family"
+149,Mystery
+150,Comedy
+151,"Drama, Crime, Family"
+152,"Drama, Crime"
+153,"Fantasy, Family"
+154,"Comedy, Thriller"
+155,Crime
+156,"Action, Romance"
+157,Crime
+158,Family
+159,"Comedy, Drama, Romance"
+160,"Drama, Sci-Fi, Animation"
+161,Romance
+162,"Thriller, Fantasy"
+163,"Adventure, Drama, Fantasy"
+164,"Action, Drama, Mystery"
+165,"Sci-Fi, Crime"
+166,"Drama, Romance, Thriller"
+167,"Comedy, Mystery"
+168,"Horror, Thriller, Mystery"
+169,"Sci-Fi, Fantasy"
+170,"Comedy, Romance, Thriller"
+171,"Adventure, Thriller, Mystery"
+172,"Sci-Fi, Crime"
+173,Family
+174,Adventure
+175,Action
+176,"Fantasy, Animation"
+177,"Comedy, Romance, Mystery"
+178,"Comedy, Drama"
+179,Crime
+180,"Adventure, Thriller, Fantasy"
+181,Mystery
+182,Drama
+183,"Action, Crime, Animation"
+184,"Romance, Thriller"
+185,"Drama, Romance, Sci-Fi"
+186,"Action, Thriller, Mystery"
+187,"Adventure, Family"
+188,Drama
+189,Family
+190,Fantasy
+191,"Mystery, Family"
+192,"Drama, Crime"
+193,"Thriller, Fantasy"
+194,Horror
+195,"Romance, Thriller, Family"
+196,"Horror, Sci-Fi, Mystery"
+197,"Comedy, Sci-Fi, Thriller"
+198,"Horror, Fantasy"
+199,Family
+200,"Action, Horror, Mystery"
+201,"Thriller, Fantasy, Mystery"
+202,Crime
+203,"Romance, Mystery"
+204,"Adventure, Thriller, Crime"
+205,Family
+206,Comedy
+207,"Mystery, Family"
+208,Horror
+209,"Romance, Sci-Fi, Family"
+210,Fantasy
+211,"Drama, Fantasy, Family"
+212,"Action, Crime"
+213,Crime
+214,Adventure
+215,"Action, Comedy"
+216,"Romance, Thriller"
+217,"Drama, Sci-Fi, Animation"
+218,Crime
+219,"Drama, Fantasy"
+220,"Comedy, Horror, Crime"
+221,"Comedy, Crime"
+222,Drama
+223,"Fantasy, Crime"
+224,"Romance, Sci-Fi"
+225,"Adventure, Drama, Mystery"
+226,Comedy
+227,"Horror, Family"
+228,"Adventure, Horror, Romance"
+229,"Action, Horror, Thriller"
+230,Mystery
+231,"Adventure, Crime, Family"
+232,"Adventure, Animation, Family"
+233,"Adventure, Sci-Fi"
+234,"Drama, Sci-Fi, Fantasy"
+235,Horror
+236,"Action, Adventure"
+237,"Action, Animation"
+238,"Adventure, Horror"
+239,Mystery
+240,"Comedy, Horror, Romance"
+241,"Comedy, Sci-Fi, Animation"
+242,"Sci-Fi, Mystery"
+243,Crime
+244,"Fantasy, Mystery, Crime"
+245,"Romance, Sci-Fi"
+246,"Adventure, Drama, Fantasy"
+247,"Crime, Animation"
+248,"Drama, Romance"
+249,"Action, Adventure, Mystery"
+250,Sci-Fi
+251,"Fantasy, Animation, Family"
+252,"Fantasy, Mystery"
+253,"Horror, Romance, Sci-Fi"
+254,"Sci-Fi, Family"
+255,"Fantasy, Family"
+256,Crime
+257,"Action, Thriller, Fantasy"
+258,Adventure
+259,"Romance, Animation, Family"
+260,"Comedy, Thriller"
+261,"Action, Romance, Crime"
+262,"Adventure, Romance"
+263,Adventure
+264,"Adventure, Horror"
+265,"Action, Horror"
+266,Sci-Fi
+267,"Romance, Fantasy, Mystery"
+268,Romance
+269,Fantasy
+270,Drama
+271,"Romance, Fantasy, Family"
+272,"Horror, Crime"
+273,Family
+274,"Drama, Fantasy, Animation"
+275,"Comedy, Fantasy"
+276,Mystery
+277,"Action, Comedy, Mystery"
+278,Horror
+279,"Adventure, Horror, Crime"
+280,Action
+281,"Adventure, Comedy"
+282,Adventure
+283,"Adventure, Comedy, Fantasy"
+284,"Romance, Thriller, Mystery"
+285,"Action, Sci-Fi"
+286,"Action, Adventure, Sci-Fi"
+287,"Action, Fantasy"
+288,"Action, Sci-Fi"
+289,"Adventure, Horror, Romance"
+290,"Comedy, Family"
+291,"Adventure, Romance, Fantasy"
+292,"Horror, Romance, Family"
+293,"Action, Horror"
+294,"Sci-Fi, Mystery"
+295,"Comedy, Fantasy"
+296,Romance
+297,"Romance, Crime, Family"
+298,"Drama, Fantasy"
+299,"Mystery, Family"
+300,Sci-Fi
+301,"Action, Comedy, Mystery"
+302,Animation
+303,Crime
+304,Animation
+305,"Mystery, Animation, Family"
+306,"Action, Sci-Fi, Thriller"
+307,"Romance, Family"
+308,Animation
+309,"Sci-Fi, Fantasy"
+310,"Horror, Animation"
+311,"Action, Horror"
+312,Horror
+313,"Comedy, Thriller"
+314,"Adventure, Crime, Family"
+315,Comedy
+316,"Sci-Fi, Fantasy, Family"
+317,"Action, Adventure, Thriller"
+318,Family
+319,Sci-Fi
+320,Mystery
+321,"Romance, Sci-Fi, Animation"
+322,"Fantasy, Mystery, Animation"
+323,"Thriller, Mystery"
+324,"Sci-Fi, Animation"
+325,"Romance, Animation"
+326,Romance
+327,Crime
+328,"Romance, Family"
+329,"Crime, Animation"
+330,"Drama, Crime"
+331,"Adventure, Horror, Fantasy"
+332,Family
+333,"Horror, Family"
+334,"Sci-Fi, Thriller, Animation"
+335,"Comedy, Mystery, Animation"
+336,Horror
+337,Family
+338,Drama
+339,"Comedy, Family"
+340,Mystery
+341,"Comedy, Animation"
+342,"Action, Sci-Fi"
+343,"Crime, Family"
+344,"Action, Thriller"
+345,Thriller
+346,Animation
+347,Action
+348,"Comedy, Romance, Animation"
+349,"Action, Crime, Animation"
+350,"Romance, Animation, Family"
+351,Crime
+352,Fantasy
+353,"Horror, Mystery"
+354,Thriller
+355,Action
+356,"Adventure, Thriller, Animation"
+357,"Horror, Thriller, Animation"
+358,"Action, Horror"
+359,"Adventure, Mystery, Crime"
+360,"Action, Horror, Family"
+361,"Thriller, Mystery, Family"
+362,"Adventure, Horror"
+363,Crime
+364,"Adventure, Horror, Romance"
+365,"Action, Drama, Romance"
+366,Family
+367,Romance
+368,"Horror, Romance"
+369,"Adventure, Animation"
+370,Sci-Fi
+371,Horror
+372,Romance
+373,"Mystery, Family"
+374,"Drama, Fantasy, Family"
+375,Horror
+376,Action
+377,Family
+378,Thriller
+379,Horror
+380,"Action, Fantasy"
+381,"Adventure, Drama, Thriller"
+382,Drama
+383,"Drama, Mystery"
+384,"Drama, Crime"
+385,"Fantasy, Crime"
+386,"Drama, Crime, Animation"
+387,"Sci-Fi, Family"
+388,"Horror, Romance, Thriller"
+389,Crime
+390,"Drama, Thriller, Family"
+391,"Drama, Animation, Family"
+392,Sci-Fi
+393,"Romance, Mystery"
+394,"Horror, Sci-Fi, Crime"
+395,"Action, Comedy"
+396,"Adventure, Crime"
+397,"Comedy, Animation"
+398,"Comedy, Fantasy"
+399,"Action, Romance"
+400,"Thriller, Crime"
+401,Fantasy
+402,"Action, Romance, Family"
+403,"Action, Sci-Fi"
+404,"Drama, Horror, Family"
+405,"Action, Adventure, Animation"
+406,"Horror, Thriller, Fantasy"
+407,"Adventure, Sci-Fi"
+408,Horror
+409,"Action, Adventure, Drama"
+410,Thriller
+411,"Action, Family"
+412,"Action, Crime"
+413,Sci-Fi
+414,"Horror, Animation"
+415,"Drama, Romance, Thriller"
+416,"Adventure, Horror, Family"
+417,"Action, Romance"
+418,"Comedy, Fantasy"
+419,Thriller
+420,Thriller
+421,"Sci-Fi, Crime"
+422,Thriller
+423,Animation
+424,"Comedy, Drama, Mystery"
+425,"Action, Mystery"
+426,"Thriller, Fantasy"
+427,Action
+428,"Fantasy, Mystery, Crime"
+429,"Romance, Thriller"
+430,"Action, Thriller"
+431,"Horror, Thriller"
+432,"Adventure, Comedy, Family"
+433,"Horror, Sci-Fi"
+434,Drama
+435,"Horror, Animation"
+436,Animation
+437,"Sci-Fi, Thriller, Mystery"
+438,Fantasy
+439,"Horror, Mystery"
+440,Adventure
+441,"Sci-Fi, Thriller, Family"
+442,Family
+443,Action
+444,"Action, Family"
+445,"Comedy, Thriller, Mystery"
+446,"Horror, Family"
+447,"Drama, Mystery, Animation"
+448,"Comedy, Crime, Animation"
+449,Action
+450,Horror
+451,"Romance, Crime"
+452,Drama
+453,"Comedy, Mystery"
+454,Crime
+455,"Adventure, Horror, Family"
+456,Sci-Fi
+457,Crime
+458,"Mystery, Animation"
+459,"Comedy, Sci-Fi, Family"
+460,"Action, Sci-Fi"
+461,"Horror, Romance, Mystery"
+462,"Adventure, Drama, Fantasy"
+463,"Drama, Family"
+464,"Romance, Animation"
+465,"Action, Crime"
+466,"Adventure, Drama, Crime"
+467,"Action, Drama, Crime"
+468,"Action, Crime"
+469,Thriller
+470,"Thriller, Fantasy, Mystery"
+471,Family
+472,"Adventure, Crime"
+473,Romance
+474,"Adventure, Romance, Family"
+475,"Horror, Mystery"
+476,Horror
+477,"Horror, Thriller, Family"
+478,"Action, Sci-Fi"
+479,Family
+480,Action
+481,"Adventure, Comedy, Family"
+482,"Action, Fantasy"
+483,"Action, Family"
+484,"Adventure, Horror, Thriller"
+485,"Action, Drama"
+486,"Adventure, Comedy, Mystery"
+487,"Romance, Crime"
+488,"Romance, Thriller"
+489,"Romance, Fantasy, Animation"
+490,"Comedy, Animation, Family"
+491,Animation
+492,"Romance, Family"
+493,"Drama, Sci-Fi"
+494,"Comedy, Horror"
+495,"Thriller, Mystery, Family"
+496,"Action, Adventure"
+497,"Thriller, Family"
+498,"Adventure, Romance, Fantasy"
+499,"Drama, Fantasy, Mystery"
+500,Animation
+501,"Adventure, Thriller"
+502,"Crime, Family"
+503,"Thriller, Family"
+504,Adventure
+505,"Adventure, Thriller, Crime"
+506,"Action, Animation"
+507,"Crime, Family"
+508,"Action, Sci-Fi, Fantasy"
+509,"Action, Drama"
+510,Thriller
+511,"Fantasy, Crime"
+512,Romance
+513,Horror
+514,"Comedy, Romance"
+515,Crime
+516,"Horror, Fantasy, Animation"
+517,Adventure
+518,Thriller
+519,"Comedy, Sci-Fi, Family"
+520,"Sci-Fi, Thriller, Family"
+521,Action
+522,"Mystery, Animation"
+523,Family
+524,"Drama, Thriller, Fantasy"
+525,"Action, Drama, Romance"
+526,"Sci-Fi, Crime"
+527,Mystery
+528,"Comedy, Horror"
+529,Crime
+530,"Action, Adventure, Fantasy"
+531,"Horror, Romance, Sci-Fi"
+532,Animation
+533,"Adventure, Mystery"
+534,"Horror, Thriller, Mystery"
+535,"Drama, Sci-Fi, Mystery"
+536,"Action, Sci-Fi"
+537,Action
+538,"Sci-Fi, Crime, Animation"
+539,"Drama, Family"
+540,Romance
+541,Romance
+542,"Comedy, Horror"
+543,"Horror, Romance, Fantasy"
+544,Romance
+545,Mystery
+546,"Romance, Fantasy"
+547,Crime
+548,Comedy
+549,"Action, Fantasy, Animation"
+550,"Adventure, Comedy"
+551,"Horror, Mystery, Crime"
+552,Family
+553,"Comedy, Fantasy, Crime"
+554,"Comedy, Crime, Animation"
+555,"Adventure, Fantasy"
+556,"Action, Mystery"
+557,"Romance, Animation"
+558,Romance
+559,Sci-Fi
+560,"Drama, Family"
+561,Animation
+562,"Comedy, Mystery, Animation"
+563,Mystery
+564,"Action, Adventure, Mystery"
+565,Comedy
+566,"Comedy, Romance, Sci-Fi"
+567,"Sci-Fi, Crime"
+568,"Comedy, Fantasy, Mystery"
+569,Drama
+570,Drama
+571,Crime
+572,Horror
+573,"Thriller, Crime"
+574,Drama
+575,Action
+576,"Comedy, Romance, Fantasy"
+577,"Action, Sci-Fi, Family"
+578,"Action, Horror, Family"
+579,Drama
+580,Action
+581,Mystery
+582,Adventure
+583,Crime
+584,"Adventure, Horror, Crime"
+585,"Drama, Romance, Family"
+586,"Action, Crime, Family"
+587,"Sci-Fi, Mystery, Animation"
+588,"Action, Crime, Family"
+589,"Adventure, Romance, Crime"
+590,Comedy
+591,"Action, Sci-Fi, Family"
+592,"Adventure, Drama, Fantasy"
+593,Comedy
+594,Mystery
+595,"Drama, Horror, Family"
+596,"Animation, Family"
+597,Adventure
+598,"Horror, Thriller, Mystery"
+599,"Adventure, Romance, Crime"
+600,"Action, Fantasy, Crime"
+601,Romance
+602,"Drama, Romance, Sci-Fi"
+603,"Drama, Thriller, Family"
+604,"Adventure, Crime, Animation"
+605,Comedy
+606,Drama
+607,"Comedy, Horror"
+608,"Adventure, Drama"
+609,"Fantasy, Crime"
+610,Adventure
+611,Family
+612,"Adventure, Sci-Fi"
+613,"Action, Adventure, Fantasy"
+614,"Crime, Animation, Family"
+615,Mystery
+616,Drama
+617,"Adventure, Comedy, Mystery"
+618,Drama
+619,"Drama, Crime"
+620,"Horror, Crime"
+621,Comedy
+622,Animation
+623,"Comedy, Drama"
+624,"Adventure, Comedy, Crime"
+625,"Sci-Fi, Fantasy"
+626,"Drama, Mystery"
+627,"Comedy, Romance, Fantasy"
+628,"Comedy, Horror, Sci-Fi"
+629,"Adventure, Horror"
+630,Crime
+631,Comedy
+632,"Comedy, Fantasy, Family"
+633,Romance
+634,Family
+635,"Adventure, Sci-Fi, Family"
+636,"Fantasy, Animation"
+637,Crime
+638,"Sci-Fi, Mystery"
+639,Comedy
+640,"Drama, Horror, Mystery"
+641,"Drama, Thriller"
+642,Mystery
+643,"Fantasy, Crime"
+644,"Sci-Fi, Mystery"
+645,Romance
+646,"Fantasy, Animation, Family"
+647,"Action, Comedy, Mystery"
+648,Romance
+649,"Action, Comedy, Crime"
+650,Animation
+651,"Adventure, Mystery, Crime"
+652,Drama
+653,Thriller
+654,"Action, Adventure, Crime"
+655,"Adventure, Comedy, Mystery"
+656,Comedy
+657,"Romance, Crime"
+658,Horror
+659,"Horror, Romance"
+660,Animation
+661,"Crime, Family"
+662,"Romance, Fantasy, Family"
+663,Family
+664,"Mystery, Crime, Family"
+665,"Action, Fantasy, Animation"
+666,Horror
+667,Sci-Fi
+668,Fantasy
+669,"Thriller, Mystery, Animation"
+670,Mystery
+671,"Romance, Fantasy, Family"
+672,"Fantasy, Family"
+673,"Romance, Mystery, Crime"
+674,"Drama, Sci-Fi, Mystery"
+675,Animation
+676,"Sci-Fi, Thriller, Mystery"
+677,Adventure
+678,Action
+679,"Thriller, Animation"
+680,"Thriller, Fantasy, Family"
+681,"Thriller, Animation"
+682,"Adventure, Drama"
+683,Animation
+684,"Drama, Romance, Family"
+685,Family
+686,"Fantasy, Crime"
+687,"Comedy, Thriller, Family"
+688,"Adventure, Sci-Fi"
+689,"Romance, Sci-Fi, Crime"
+690,Horror
+691,"Drama, Sci-Fi, Animation"
+692,"Horror, Animation, Family"
+693,"Thriller, Fantasy, Mystery"
+694,Fantasy
+695,Family
+696,"Romance, Fantasy, Family"
+697,"Sci-Fi, Crime, Family"
+698,Horror
+699,"Sci-Fi, Crime"
+700,"Romance, Crime, Animation"
+701,"Romance, Fantasy, Family"
+702,"Drama, Horror"
+703,Fantasy
+704,Crime
+705,"Drama, Horror, Romance"
+706,"Romance, Mystery"
+707,"Adventure, Mystery, Family"
+708,Family
+709,"Romance, Fantasy"
+710,"Crime, Animation, Family"
+711,Fantasy
+712,"Thriller, Fantasy"
+713,"Romance, Animation"
+714,Animation
+715,"Action, Romance, Thriller"
+716,"Adventure, Romance, Fantasy"
+717,Horror
+718,"Adventure, Family"
+719,Family
+720,"Action, Sci-Fi, Animation"
+721,"Action, Sci-Fi, Fantasy"
+722,Horror
+723,"Thriller, Animation"
+724,"Mystery, Family"
+725,"Action, Adventure, Fantasy"
+726,Animation
+727,"Horror, Thriller"
+728,"Romance, Mystery, Family"
+729,"Fantasy, Mystery"
+730,"Fantasy, Animation"
+731,"Horror, Fantasy"
+732,Mystery
+733,"Comedy, Family"
+734,Comedy
+735,"Horror, Romance, Animation"
+736,"Mystery, Family"
+737,Sci-Fi
+738,"Adventure, Fantasy"
+739,"Action, Crime, Family"
+740,"Romance, Animation"
+741,"Crime, Animation"
+742,Crime
+743,"Action, Sci-Fi, Crime"
+744,"Romance, Thriller"
+745,Fantasy
+746,"Drama, Horror"
+747,"Thriller, Crime"
+748,"Comedy, Drama, Thriller"
+749,Drama
+750,"Adventure, Horror"
+751,"Drama, Mystery"
+752,"Action, Comedy"
+753,"Adventure, Crime"
+754,"Adventure, Thriller, Mystery"
+755,Fantasy
+756,"Comedy, Horror, Fantasy"
+757,"Action, Comedy, Drama"
+758,"Action, Comedy, Sci-Fi"
+759,Comedy
+760,Horror
+761,"Action, Drama, Crime"
+762,"Action, Fantasy, Crime"
+763,"Adventure, Comedy, Fantasy"
+764,"Drama, Romance, Mystery"
+765,"Drama, Horror, Fantasy"
+766,"Horror, Romance, Fantasy"
+767,"Thriller, Mystery, Crime"
+768,Animation
+769,"Drama, Thriller, Family"
+770,"Action, Fantasy"
+771,Drama
+772,"Horror, Romance"
+773,"Action, Mystery, Family"
+774,Sci-Fi
+775,Horror
+776,Sci-Fi
+777,"Adventure, Comedy, Crime"
+778,"Romance, Family"
+779,"Action, Comedy, Sci-Fi"
+780,Drama
+781,Fantasy
+782,"Action, Comedy, Crime"
+783,Animation
+784,Horror
+785,Action
+786,Adventure
+787,"Horror, Crime"
+788,Fantasy
+789,"Thriller, Crime, Family"
+790,"Adventure, Crime"
+791,"Comedy, Animation"
+792,"Comedy, Horror"
+793,Sci-Fi
+794,"Sci-Fi, Crime, Family"
+795,"Comedy, Drama"
+796,Crime
+797,Fantasy
+798,"Horror, Romance, Fantasy"
+799,"Horror, Thriller, Family"
+800,"Horror, Thriller, Family"
+801,"Fantasy, Animation"
+802,Thriller
+803,Fantasy
+804,Fantasy
+805,Drama
+806,"Horror, Crime"
+807,"Adventure, Sci-Fi, Thriller"
+808,"Horror, Romance"
+809,"Drama, Thriller, Family"
+810,"Sci-Fi, Animation"
+811,"Action, Romance, Thriller"
+812,"Action, Comedy, Sci-Fi"
+813,"Comedy, Sci-Fi"
+814,"Drama, Animation"
+815,"Drama, Horror"
+816,Adventure
+817,Action
+818,"Adventure, Romance"
+819,"Action, Mystery, Animation"
+820,Crime
+821,"Action, Sci-Fi, Crime"
+822,"Comedy, Horror, Family"
+823,Crime
+824,"Comedy, Mystery"
+825,"Horror, Sci-Fi"
+826,Action
+827,"Drama, Fantasy, Animation"
+828,Romance
+829,Horror
+830,"Adventure, Comedy, Mystery"
+831,Fantasy
+832,"Adventure, Sci-Fi, Thriller"
+833,Fantasy
+834,Action
+835,"Thriller, Animation, Family"
+836,"Adventure, Drama, Horror"
+837,"Adventure, Horror"
+838,Mystery
+839,Sci-Fi
+840,"Adventure, Horror, Romance"
+841,Adventure
+842,Fantasy
+843,"Romance, Family"
+844,"Horror, Crime"
+845,Horror
+846,"Thriller, Family"
+847,Family
+848,Mystery
+849,Family
+850,"Drama, Crime"
+851,Family
+852,Fantasy
+853,"Romance, Thriller"
+854,Adventure
+855,"Adventure, Horror"
+856,Thriller
+857,Sci-Fi
+858,Horror
+859,"Action, Thriller, Family"
+860,"Action, Adventure, Drama"
+861,"Comedy, Thriller, Animation"
+862,"Comedy, Fantasy, Crime"
+863,Comedy
+864,"Horror, Romance, Family"
+865,"Adventure, Thriller"
+866,"Horror, Fantasy, Animation"
+867,"Action, Mystery, Family"
+868,"Drama, Romance"
+869,"Fantasy, Mystery"
+870,"Drama, Mystery"
+871,"Drama, Fantasy"
+872,Family
+873,"Adventure, Sci-Fi, Family"
+874,"Fantasy, Mystery, Family"
+875,"Mystery, Animation, Family"
+876,"Adventure, Horror, Thriller"
+877,"Drama, Fantasy, Family"
+878,"Action, Horror, Sci-Fi"
+879,"Action, Horror, Mystery"
+880,"Romance, Animation"
+881,Fantasy
+882,Adventure
+883,"Adventure, Romance, Family"
+884,Mystery
+885,Romance
+886,"Horror, Crime"
+887,"Thriller, Animation"
+888,"Mystery, Animation, Family"
+889,"Comedy, Sci-Fi, Thriller"
+890,"Adventure, Fantasy"
+891,Comedy
+892,"Action, Thriller, Animation"
+893,"Comedy, Drama, Family"
+894,"Horror, Thriller, Mystery"
+895,"Action, Sci-Fi, Fantasy"
+896,"Comedy, Fantasy, Mystery"
+897,Animation
+898,"Adventure, Horror"
+899,"Mystery, Crime"
+900,"Comedy, Family"
+901,"Comedy, Romance"
+902,Sci-Fi
+903,"Drama, Animation"
+904,"Animation, Family"
+905,"Action, Comedy"
+906,"Horror, Thriller"
+907,"Comedy, Fantasy"
+908,"Action, Sci-Fi, Fantasy"
+909,"Drama, Horror, Crime"
+910,"Romance, Thriller, Family"
+911,"Action, Drama"
+912,"Sci-Fi, Thriller"
+913,"Action, Thriller, Crime"
+914,"Action, Drama, Thriller"
+915,"Adventure, Sci-Fi"
+916,Family
+917,"Romance, Thriller"
+918,"Horror, Romance, Sci-Fi"
+919,"Thriller, Mystery"
+920,"Action, Comedy, Fantasy"
+921,Horror
+922,"Horror, Romance, Family"
+923,Drama
+924,Thriller
+925,"Action, Sci-Fi"
+926,"Drama, Horror, Thriller"
+927,"Drama, Thriller"
+928,Drama
+929,"Mystery, Crime"
+930,"Drama, Animation, Family"
+931,"Action, Mystery"
+932,"Romance, Crime, Family"
+933,Thriller
+934,"Action, Crime, Animation"
+935,"Horror, Sci-Fi, Mystery"
+936,"Thriller, Animation"
+937,"Drama, Fantasy"
+938,Family
+939,Thriller
+940,Thriller
+941,"Action, Comedy"
+942,"Action, Adventure, Comedy"
+943,"Adventure, Comedy, Drama"
+944,"Comedy, Crime"
+945,"Comedy, Drama"
+946,Horror
+947,"Romance, Thriller, Family"
+948,Animation
+949,"Comedy, Romance, Family"
+950,Crime
+951,Drama
+952,"Horror, Animation, Family"
+953,"Comedy, Drama, Crime"
+954,"Sci-Fi, Fantasy, Family"
+955,Horror
+956,Comedy
+957,Drama
+958,"Action, Horror, Family"
+959,"Action, Adventure, Sci-Fi"
+960,Thriller
+961,"Thriller, Crime"
+962,"Romance, Sci-Fi, Crime"
+963,Thriller
+964,"Adventure, Romance, Family"
+965,"Drama, Sci-Fi"
+966,"Thriller, Animation"
+967,Drama
+968,Adventure
+969,"Comedy, Thriller, Animation"
+970,Drama
+971,"Horror, Mystery"
+972,"Drama, Fantasy"
+973,"Horror, Mystery, Animation"
+974,Romance
+975,Action
+976,"Adventure, Thriller"
+977,Crime
+978,Crime
+979,"Comedy, Fantasy, Mystery"
+980,"Mystery, Crime"
+981,"Romance, Crime"
+982,"Adventure, Horror, Animation"
+983,"Romance, Thriller"
+984,Horror
+985,"Romance, Family"
+986,"Adventure, Drama, Animation"
+987,Thriller
+988,"Romance, Thriller, Family"
+989,"Adventure, Thriller, Mystery"
+990,"Drama, Sci-Fi, Animation"
+991,"Horror, Animation"
+992,"Action, Drama, Horror"
+993,"Adventure, Comedy, Sci-Fi"
+994,"Drama, Sci-Fi, Animation"
+995,"Action, Sci-Fi"
+996,"Adventure, Mystery, Crime"
+997,"Action, Sci-Fi"
+998,Crime
+999,"Adventure, Drama, Thriller"
+1000,"Comedy, Mystery, Crime"
+1001,"Action, Animation"
+1002,"Action, Fantasy, Family"
+1003,"Romance, Sci-Fi, Fantasy"
+1004,"Action, Thriller, Family"
+1005,Romance
+1006,"Sci-Fi, Family"
+1007,"Horror, Thriller, Crime"
+1008,"Horror, Mystery"
+1009,"Adventure, Animation"
+1010,Action
+1011,Action
+1012,"Action, Family"
+1013,"Animation, Family"
+1014,"Fantasy, Mystery, Animation"
+1015,Romance
+1016,Animation
+1017,"Sci-Fi, Mystery"
+1018,"Adventure, Sci-Fi, Family"
+1019,Sci-Fi
+1020,"Drama, Mystery"
+1021,Action
+1022,"Drama, Romance, Crime"
+1023,"Action, Mystery, Family"
+1024,"Comedy, Crime"
+1025,"Drama, Mystery"
+1026,"Adventure, Family"
+1027,Mystery
+1028,Animation
+1029,Horror
+1030,Crime
+1031,Family
+1032,"Fantasy, Mystery"
+1033,Animation
+1034,Animation
+1035,"Romance, Crime"
+1036,Crime
+1037,Comedy
+1038,"Thriller, Animation"
+1039,Comedy
+1040,"Action, Thriller"
+1041,Horror
+1042,"Comedy, Family"
+1043,"Crime, Family"
+1044,"Sci-Fi, Family"
+1045,Thriller
+1046,"Horror, Sci-Fi, Thriller"
+1047,"Horror, Romance, Family"
+1048,"Thriller, Crime, Family"
+1049,Fantasy
+1050,Action
+1051,"Horror, Romance, Thriller"
+1052,"Romance, Animation"
+1053,"Drama, Family"
+1054,"Comedy, Romance"
+1055,"Action, Drama, Sci-Fi"
+1056,"Romance, Thriller, Mystery"
+1057,"Drama, Horror, Crime"
+1058,Crime
+1059,"Fantasy, Family"
+1060,Sci-Fi
+1061,Sci-Fi
+1062,"Sci-Fi, Thriller, Animation"
+1063,"Romance, Crime"
+1064,"Romance, Family"
+1065,"Drama, Romance, Sci-Fi"
+1066,"Horror, Mystery"
+1067,"Comedy, Romance, Animation"
+1068,Drama
+1069,"Fantasy, Mystery"
+1070,Crime
+1071,"Action, Animation"
+1072,Thriller
+1073,"Mystery, Animation, Family"
+1074,"Adventure, Thriller"
+1075,Fantasy
+1076,"Drama, Thriller"
+1077,Action
+1078,"Action, Thriller"
+1079,Drama
+1080,"Thriller, Fantasy, Animation"
+1081,"Romance, Animation"
+1082,Fantasy
+1083,"Adventure, Mystery, Animation"
+1084,Drama
+1085,Animation
+1086,"Comedy, Crime"
+1087,"Action, Fantasy"
+1088,"Action, Sci-Fi, Crime"
+1089,"Mystery, Family"
+1090,Adventure
+1091,"Fantasy, Family"
+1092,"Adventure, Family"
+1093,"Comedy, Thriller, Family"
+1094,"Adventure, Sci-Fi, Mystery"
+1095,"Comedy, Mystery"
+1096,"Comedy, Horror, Mystery"
+1097,Adventure
+1098,Horror
+1099,"Drama, Sci-Fi, Family"
+1100,Action
+1101,Mystery
+1102,Comedy
+1103,"Crime, Animation"
+1104,"Drama, Romance, Family"
+1105,Action
+1106,"Action, Family"
+1107,"Sci-Fi, Thriller, Fantasy"
+1108,"Action, Mystery, Crime"
+1109,Sci-Fi
+1110,"Comedy, Drama"
+1111,"Fantasy, Family"
+1112,"Action, Mystery"
+1113,"Adventure, Romance"
+1114,"Comedy, Horror, Thriller"
+1115,"Sci-Fi, Fantasy"
+1116,Comedy
+1117,"Crime, Animation"
+1118,"Action, Adventure, Animation"
+1119,Adventure
+1120,"Action, Thriller"
+1121,Family
+1122,"Adventure, Crime"
+1123,"Action, Thriller, Crime"
+1124,Drama
+1125,"Adventure, Drama"
+1126,"Horror, Fantasy"
+1127,Horror
+1128,"Drama, Horror, Crime"
+1129,"Drama, Horror, Sci-Fi"
+1130,"Thriller, Fantasy"
+1131,"Horror, Fantasy"
+1132,"Action, Mystery"
+1133,"Drama, Horror"
+1134,Adventure
+1135,"Sci-Fi, Family"
+1136,"Action, Animation, Family"
+1137,Fantasy
+1138,Adventure
+1139,"Comedy, Family"
+1140,Comedy
+1141,"Adventure, Family"
+1142,Thriller
+1143,"Action, Drama, Romance"
+1144,"Action, Mystery"
+1145,"Fantasy, Mystery"
+1146,Romance
+1147,"Romance, Sci-Fi, Animation"
+1148,Sci-Fi
+1149,"Action, Family"
+1150,Sci-Fi
+1151,"Action, Romance"
+1152,"Drama, Crime"
+1153,"Adventure, Drama, Sci-Fi"
+1154,"Drama, Crime, Family"
+1155,"Action, Family"
+1156,Romance
+1157,"Comedy, Romance, Mystery"
+1158,"Action, Crime"
+1159,"Adventure, Family"
+1160,"Adventure, Sci-Fi, Thriller"
+1161,Mystery
+1162,"Comedy, Thriller, Family"
+1163,"Horror, Family"
+1164,"Adventure, Drama"
+1165,"Fantasy, Family"
+1166,"Comedy, Fantasy"
+1167,Fantasy
+1168,"Romance, Thriller"
+1169,Romance
+1170,"Comedy, Thriller, Mystery"
+1171,Mystery
+1172,"Fantasy, Crime"
+1173,Family
+1174,"Drama, Mystery"
+1175,Thriller
+1176,Drama
+1177,Animation
+1178,"Adventure, Thriller, Crime"
+1179,"Romance, Fantasy, Animation"
+1180,Animation
+1181,"Action, Animation, Family"
+1182,"Action, Romance, Crime"
+1183,"Romance, Crime, Family"
+1184,"Romance, Sci-Fi"
+1185,"Romance, Mystery"
+1186,Thriller
+1187,"Action, Adventure, Romance"
+1188,Animation
+1189,Animation
+1190,Family
+1191,"Adventure, Drama, Fantasy"
+1192,"Romance, Animation"
+1193,"Action, Crime, Animation"
+1194,Crime
+1195,"Romance, Mystery"
+1196,"Horror, Thriller, Crime"
+1197,"Action, Sci-Fi, Animation"
+1198,Fantasy
+1199,Romance
+1200,"Horror, Fantasy"
+1201,"Sci-Fi, Thriller, Crime"
+1202,"Horror, Animation"
+1203,"Thriller, Mystery"
+1204,"Action, Fantasy"
+1205,"Drama, Crime, Family"
+1206,"Adventure, Thriller, Animation"
+1207,Adventure
+1208,"Adventure, Thriller, Family"
+1209,"Comedy, Drama, Romance"
+1210,"Action, Drama, Horror"
+1211,"Sci-Fi, Animation"
+1212,"Comedy, Drama, Mystery"
+1213,"Action, Animation, Family"
+1214,Family
+1215,Adventure
+1216,Thriller
+1217,"Sci-Fi, Mystery"
+1218,"Adventure, Thriller, Crime"
+1219,"Adventure, Thriller, Family"
+1220,Romance
+1221,"Action, Animation"
+1222,Animation
+1223,"Horror, Animation"
+1224,"Comedy, Crime"
+1225,"Adventure, Fantasy, Crime"
+1226,"Drama, Thriller, Mystery"
+1227,Animation
+1228,Crime
+1229,Family
+1230,"Action, Romance, Mystery"
+1231,"Horror, Romance"
+1232,"Romance, Fantasy"
+1233,"Fantasy, Animation, Family"
+1234,"Adventure, Family"
+1235,Mystery
+1236,"Comedy, Sci-Fi, Animation"
+1237,"Drama, Crime, Animation"
+1238,"Sci-Fi, Thriller"
+1239,Drama
+1240,"Adventure, Romance, Sci-Fi"
+1241,"Comedy, Fantasy, Mystery"
+1242,"Action, Mystery"
+1243,"Crime, Family"
+1244,Fantasy
+1245,Sci-Fi
+1246,"Horror, Sci-Fi, Thriller"
+1247,"Action, Comedy, Thriller"
+1248,"Fantasy, Crime"
+1249,Action
+1250,"Thriller, Mystery"
+1251,"Action, Romance, Sci-Fi"
+1252,"Fantasy, Mystery"
+1253,"Adventure, Fantasy"
+1254,"Comedy, Drama, Thriller"
+1255,"Crime, Family"
+1256,"Comedy, Romance"
+1257,Comedy
+1258,Comedy
+1259,Horror
+1260,Action
+1261,"Horror, Mystery"
+1262,"Romance, Crime"
+1263,"Sci-Fi, Animation"
+1264,"Action, Sci-Fi, Fantasy"
+1265,Drama
+1266,Comedy
+1267,"Horror, Mystery, Animation"
+1268,"Comedy, Drama, Horror"
+1269,"Mystery, Family"
+1270,"Horror, Romance, Sci-Fi"
+1271,Action
+1272,"Sci-Fi, Animation"
+1273,"Horror, Crime"
+1274,Romance
+1275,"Action, Adventure, Animation"
+1276,Drama
+1277,"Romance, Crime"
+1278,"Horror, Thriller, Animation"
+1279,"Adventure, Animation"
+1280,"Mystery, Crime"
+1281,Horror
+1282,Action
+1283,Romance
+1284,Drama
+1285,"Sci-Fi, Thriller"
+1286,"Romance, Fantasy"
+1287,Drama
+1288,"Adventure, Horror, Thriller"
+1289,"Drama, Fantasy, Family"
+1290,"Adventure, Family"
+1291,Animation
+1292,"Sci-Fi, Thriller, Mystery"
+1293,"Fantasy, Animation"
+1294,"Adventure, Fantasy, Mystery"
+1295,Horror
+1296,"Comedy, Drama"
+1297,"Drama, Thriller"
+1298,Mystery
+1299,Crime
+1300,Sci-Fi
+1301,Sci-Fi
+1302,Action
+1303,"Animation, Family"
+1304,Fantasy
+1305,"Mystery, Crime"
+1306,"Mystery, Crime, Family"
+1307,"Fantasy, Mystery"
+1308,"Fantasy, Crime"
+1309,"Drama, Horror"
+1310,"Comedy, Romance, Thriller"
+1311,"Drama, Thriller, Fantasy"
+1312,"Drama, Animation"
+1313,"Thriller, Fantasy, Animation"
+1314,"Romance, Thriller"
+1315,"Adventure, Drama, Crime"
+1316,"Thriller, Crime"
+1317,"Drama, Thriller, Mystery"
+1318,"Comedy, Drama, Mystery"
+1319,"Action, Adventure"
+1320,Action
+1321,Comedy
+1322,"Drama, Family"
+1323,"Horror, Thriller"
+1324,"Adventure, Drama"
+1325,"Comedy, Drama"
+1326,"Thriller, Family"
+1327,"Action, Romance, Crime"
+1328,"Comedy, Fantasy, Mystery"
+1329,Horror
+1330,"Thriller, Mystery, Crime"
+1331,"Sci-Fi, Mystery"
+1332,"Action, Horror"
+1333,"Comedy, Fantasy, Mystery"
+1334,Adventure
+1335,"Action, Horror"
+1336,"Action, Sci-Fi, Crime"
+1337,"Adventure, Drama, Family"
+1338,"Comedy, Drama, Fantasy"
+1339,"Comedy, Fantasy, Mystery"
+1340,"Mystery, Animation"
+1341,"Horror, Sci-Fi, Crime"
+1342,"Drama, Crime"
+1343,Crime
+1344,"Action, Drama, Animation"
+1345,"Adventure, Mystery, Crime"
+1346,"Action, Mystery, Family"
+1347,Fantasy
+1348,"Drama, Horror"
+1349,Romance
+1350,Action
+1351,"Thriller, Crime"
+1352,"Action, Thriller, Family"
+1353,Thriller
+1354,"Comedy, Animation"
+1355,"Drama, Horror, Fantasy"
+1356,"Adventure, Comedy"
+1357,"Comedy, Sci-Fi"
+1358,Animation
+1359,"Adventure, Drama"
+1360,"Romance, Crime"
+1361,Horror
+1362,"Horror, Thriller"
+1363,"Horror, Family"
+1364,"Comedy, Horror"
+1365,Sci-Fi
+1366,"Horror, Fantasy"
+1367,"Adventure, Family"
+1368,Horror
+1369,"Comedy, Sci-Fi"
+1370,"Action, Comedy, Family"
+1371,Animation
+1372,Thriller
+1373,Adventure
+1374,Sci-Fi
+1375,"Drama, Fantasy"
+1376,Romance
+1377,Drama
+1378,"Horror, Thriller, Crime"
+1379,"Action, Comedy, Crime"
+1380,"Romance, Sci-Fi, Fantasy"
+1381,"Action, Animation, Family"
+1382,"Drama, Horror"
+1383,"Comedy, Drama, Animation"
+1384,Romance
+1385,"Mystery, Crime"
+1386,Sci-Fi
+1387,"Drama, Thriller"
+1388,Fantasy
+1389,"Action, Family"
+1390,"Drama, Romance, Sci-Fi"
+1391,"Crime, Family"
+1392,Romance
+1393,Thriller
+1394,"Sci-Fi, Mystery, Crime"
+1395,"Adventure, Fantasy"
+1396,"Horror, Mystery, Crime"
+1397,Comedy
+1398,Crime
+1399,Action
+1400,"Thriller, Crime, Family"
+1401,"Horror, Sci-Fi"
+1402,"Thriller, Crime, Family"
+1403,"Thriller, Crime"
+1404,Comedy
+1405,"Comedy, Crime"
+1406,"Horror, Romance, Animation"
+1407,Sci-Fi
+1408,Drama
+1409,Mystery
+1410,Action
+1411,Romance
+1412,Adventure
+1413,"Drama, Horror, Sci-Fi"
+1414,"Mystery, Animation, Family"
+1415,Action
+1416,"Thriller, Mystery"
+1417,"Adventure, Horror, Mystery"
+1418,"Mystery, Crime"
+1419,"Horror, Sci-Fi, Thriller"
+1420,"Comedy, Horror, Romance"
+1421,"Comedy, Sci-Fi, Thriller"
+1422,"Adventure, Drama, Crime"
+1423,"Comedy, Drama, Fantasy"
+1424,"Horror, Thriller, Crime"
+1425,Romance
+1426,"Romance, Sci-Fi"
+1427,Thriller
+1428,"Action, Drama, Romance"
+1429,"Adventure, Drama, Crime"
+1430,"Sci-Fi, Thriller, Family"
+1431,"Sci-Fi, Mystery"
+1432,Romance
+1433,"Romance, Thriller, Crime"
+1434,"Action, Horror"
+1435,"Drama, Animation"
+1436,"Comedy, Thriller, Family"
+1437,Drama
+1438,"Adventure, Sci-Fi"
+1439,"Action, Drama, Crime"
+1440,"Romance, Sci-Fi"
+1441,Crime
+1442,"Action, Thriller"
+1443,Sci-Fi
+1444,Romance
+1445,Adventure
+1446,"Action, Fantasy"
+1447,Fantasy
+1448,"Comedy, Thriller"
+1449,Mystery
+1450,Action
+1451,"Comedy, Horror, Animation"
+1452,"Action, Horror, Romance"
+1453,Thriller
+1454,"Sci-Fi, Fantasy"
+1455,Adventure
+1456,"Drama, Mystery, Crime"
+1457,Horror
+1458,Crime
+1459,"Sci-Fi, Mystery"
+1460,Thriller
+1461,"Crime, Animation"
+1462,"Adventure, Crime, Animation"
+1463,"Thriller, Crime"
+1464,"Comedy, Thriller, Animation"
+1465,"Comedy, Sci-Fi, Animation"
+1466,"Action, Mystery, Family"
+1467,"Adventure, Drama"
+1468,"Horror, Crime"
+1469,"Adventure, Sci-Fi"
+1470,"Action, Sci-Fi, Mystery"
+1471,"Comedy, Drama"
+1472,Comedy
+1473,"Action, Fantasy, Crime"
+1474,Action
+1475,"Drama, Thriller, Family"
+1476,Drama
+1477,Horror
+1478,Comedy
+1479,"Romance, Crime"
+1480,"Action, Adventure, Family"
+1481,"Action, Romance, Sci-Fi"
+1482,"Romance, Family"
+1483,Comedy
+1484,Romance
+1485,"Fantasy, Family"
+1486,"Drama, Family"
+1487,"Action, Romance, Sci-Fi"
+1488,"Drama, Fantasy"
+1489,Animation
+1490,"Adventure, Fantasy, Crime"
+1491,"Action, Adventure"
+1492,Romance
+1493,"Fantasy, Crime"
+1494,Thriller
+1495,"Fantasy, Crime"
+1496,"Drama, Mystery, Crime"
+1497,"Adventure, Drama"
+1498,"Romance, Fantasy"
+1499,Thriller
+1500,Comedy

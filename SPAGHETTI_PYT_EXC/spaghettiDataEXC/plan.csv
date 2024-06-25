@@ -1,0 +1,21 @@
+planID,planDescription,price,duration
+1,Basic Plan,10,3 months
+2,Standard Plan,15,6 months
+3,Premium Plan,20,12 months
+4,Family Plan,25,12 months
+5,Student Plan,8,6 months
+6,Ultimate Plan,30,24 months
+7,Weekend Plan,6,1 month
+8,Binge Plan,18,9 months
+9,Movie Buff Plan,40,24 months
+10,Yearly Pass,50,12 months
+11,Monthly Pass,13,1 month
+12,Quarterly Pass,35,3 months
+13,Film Fanatic Plan,60,36 months
+14,Weekday Plan,5,1 month
+15,Silver Plan,22,12 months
+16,Gold Plan,30,18 months
+17,Platinum Plan,40,24 months
+18,Cinema Lover Plan,50,24 months
+19,Streaming Addict Plan,15,6 months
+20,Blockbuster Plan,65,36 months
